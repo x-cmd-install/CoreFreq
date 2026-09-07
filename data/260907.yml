@@ -5,13 +5,13 @@ about:
   head: 4d032cf
   archived: false
   latestVersion: "2.1.4"
-  collectedAt: 2026-09-07T05:25:52Z
+  collectedAt: 2026-09-07T19:01:19Z
 timeline:
   created: 2015-06-21
   lastCommit: 2026-08-16
   lastRelease: 2026-08-16
 popularity:
-  star: 2241
+  star: 2240
   watcher: 54
   fork: 147
   release: 35
@@ -81,7 +81,7 @@ total:
   commit: 2823
 ---
 path: /home/runner/.x-repo/github.com/cyring/CoreFreq
-collectedAt: 2026-09-07T05:25:59Z
+collectedAt: 2026-09-07T19:01:26Z
 loc:
   C:
     code: 145076
@@ -215,7 +215,7 @@ checks:
     details: null
 ---
 eget:
-  collectedAt: 2026-09-07T05:26:00+00:00
+  collectedAt: 2026-09-07T19:01:27+00:00
   platform:
     darwin/arm64:
       name:  null
