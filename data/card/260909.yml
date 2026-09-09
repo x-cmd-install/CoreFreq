@@ -7,7 +7,7 @@ about:
   latestVersion: "2.1.4"
   latestRelease: "2.1.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:21:09Z
+  collectedAt: 2026-09-09T19:47:50Z
 timeline:
   created: 2015-06-21
   lastCommit: 2026-08-16
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-16
   lastPrerelease: 
 popularity:
-  star: 2239
+  star: 2240
   watcher: 54
-  fork: 147
+  fork: 148
   release: 35
   contributor: 18
   pullRequest: 28
@@ -85,7 +85,7 @@ total:
   commit: 2823
 ---
 path: /home/runner/.x-repo/github.com/cyring/CoreFreq
-collectedAt: 2026-09-09T05:21:19Z
+collectedAt: 2026-09-09T19:47:57Z
 loc:
   C:
     code: 145076
