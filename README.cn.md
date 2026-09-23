@@ -4,7 +4,7 @@
 
 CoreFreq : CPU monitoring and tuning software designed for the 64-bit processors.
 
-[![x-cmd/install — CoreFreq Code Quality Monitoring Repo Card](https://repo.x-cmd.io/CoreFreq.svg?lang=zh)](https://x-cmd.com/install/CoreFreq)
+[![x-cmd/install — CoreFreq Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/CoreFreq.svg?lang=zh)](https://x-cmd.com/install/CoreFreq)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install CoreFreq
 
 ## 流行度
 
-- **Star**: 2,243 · **Fork**: 148 · **开放 issue**: 396 · **贡献者**: 18
+- **Star**: 2,244 · **Fork**: 148 · **开放 issue**: 397 · **贡献者**: 18
 
 ## 累计统计
 
-- **发布数**: 35 · **已合并 PR**: 20 · **开放 PR**: 0 · **已关闭 issue**: 395 · **开放 issue**: 1 · **提交数**: 2823
+- **发布数**: 35 · **已合并 PR**: 20 · **开放 PR**: 0 · **已关闭 issue**: 395 · **开放 issue**: 2 · **提交数**: 2823
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 2 | 0 | 0 | 0 | 0 | 17 |
-| 90d | 2026-06-24 | 2 | 0 | 0 | 1 | 0 | 38 |
-| last180d | 2026-03-26 | 4 | 2 | 0 | 7 | 0 | 126 |
-| 360d | 2025-09-27 | 6 | 2 | 0 | 15 | 1 | 189 |
-| last720d | 2024-10-02 | 17 | 4 | 0 | 42 | 1 | 386 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 2 | 0 | 0 | 0 | 1 | 17 |
+| 90d | 2026-06-25 | 2 | 0 | 0 | 1 | 1 | 38 |
+| last180d | 2026-03-27 | 4 | 2 | 0 | 7 | 1 | 126 |
+| 360d | 2025-09-28 | 6 | 2 | 0 | 15 | 2 | 189 |
+| last720d | 2024-10-03 | 17 | 4 | 0 | 42 | 2 | 386 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ CoreFreq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:36:51Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:42:41Z._
