@@ -14,12 +14,12 @@ x install CoreFreq
 
 ## Code insight
 
-Total: **233,935** lines of code across **104** files in the top 5 languages.
+Total: **233,997** lines of code across **104** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 145,076 | 4,015 | 16,465 | 32 |
-| CHeader | 87,052 | 2,332 | 8,316 | 69 |
+| CHeader | 87,114 | 2,333 | 8,316 | 69 |
 | Svg | 1,328 | 1 | 1 | 1 |
 | Makefile | 422 | 3 | 44 | 1 |
 | Sh | 26 | 8 | 0 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `2.1.4` (2026-08-16)
-- **Last commit**: 2026-08-16
+- **Latest**: `2.1.5` (2026-10-17)
+- **Last commit**: 2026-10-17
 
 ## Popularity
 
-- **Stars**: 2,249 · **Forks**: 149 · **Open issues**: 397 · **Contributors**: 18
+- **Stars**: 2,248 · **Forks**: 149 · **Open issues**: 397 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 20 · **Open PRs**: 1 · **Closed issues**: 395 · **Open issues**: 2 · **Commits**: 2823
+- **Releases**: 36 · **Merged PRs**: 20 · **Open PRs**: 1 · **Closed issues**: 395 · **Open issues**: 2 · **Commits**: 2828
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-18 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-19 | 2 | 0 | 1 | 0 | 1 | 18 |
-| last180d | 2026-04-20 | 4 | 1 | 1 | 5 | 1 | 104 |
-| 360d | 2025-10-22 | 6 | 2 | 1 | 14 | 2 | 187 |
-| last720d | 2024-10-27 | 17 | 4 | 1 | 40 | 2 | 371 |
+| 30d | 2026-09-18 | 1 | 0 | 1 | 0 | 1 | 4 |
+| last60d | 2026-08-19 | 1 | 0 | 1 | 0 | 1 | 5 |
+| 90d | 2026-07-20 | 3 | 0 | 1 | 0 | 1 | 22 |
+| last180d | 2026-04-21 | 5 | 1 | 1 | 5 | 1 | 101 |
+| 360d | 2025-10-23 | 7 | 2 | 1 | 14 | 2 | 192 |
+| last720d | 2024-10-28 | 18 | 4 | 1 | 40 | 2 | 371 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for CoreFreq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:57:37Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:54:51Z._
