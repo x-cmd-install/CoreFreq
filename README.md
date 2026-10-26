@@ -30,9 +30,9 @@ Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,249 · **Forks**: 149 · **Open issues**: 397 · **Contributors**: 18
+- **Stars**: 2,250 · **Forks**: 149 · **Open issues**: 397 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 0 | 1 | 0 | 0 | 8 |
-| last60d | 2026-08-26 | 1 | 0 | 1 | 0 | 1 | 9 |
-| 90d | 2026-07-27 | 3 | 0 | 1 | 0 | 1 | 25 |
-| last180d | 2026-04-28 | 5 | 1 | 1 | 3 | 1 | 101 |
-| 360d | 2025-10-30 | 7 | 2 | 1 | 14 | 2 | 196 |
-| last720d | 2024-11-04 | 18 | 4 | 1 | 39 | 2 | 373 |
+| 30d | 2026-09-26 | 1 | 0 | 1 | 0 | 0 | 8 |
+| last60d | 2026-08-27 | 1 | 0 | 1 | 0 | 1 | 9 |
+| 90d | 2026-07-28 | 3 | 0 | 1 | 0 | 1 | 25 |
+| last180d | 2026-04-29 | 5 | 0 | 1 | 3 | 1 | 101 |
+| 360d | 2025-10-31 | 7 | 2 | 1 | 14 | 2 | 196 |
+| last720d | 2024-11-05 | 18 | 4 | 1 | 39 | 2 | 373 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for CoreFreq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:09:20Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:14:33Z._
