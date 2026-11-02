@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 0 | 0 | 0 | 0 | 8 |
-| last60d | 2026-09-02 | 1 | 0 | 1 | 0 | 1 | 9 |
-| 90d | 2026-08-03 | 3 | 0 | 1 | 0 | 1 | 18 |
-| last180d | 2026-05-05 | 5 | 0 | 1 | 3 | 1 | 92 |
-| 360d | 2025-11-06 | 7 | 2 | 1 | 14 | 2 | 195 |
-| last720d | 2024-11-11 | 17 | 4 | 1 | 39 | 2 | 370 |
+| 30d | 2026-10-03 | 1 | 0 | 0 | 0 | 0 | 8 |
+| last60d | 2026-09-03 | 1 | 0 | 1 | 0 | 1 | 9 |
+| 90d | 2026-08-04 | 3 | 0 | 1 | 0 | 1 | 18 |
+| last180d | 2026-05-06 | 5 | 0 | 1 | 3 | 1 | 92 |
+| 360d | 2025-11-07 | 7 | 2 | 1 | 14 | 2 | 195 |
+| last720d | 2024-11-12 | 17 | 4 | 1 | 39 | 2 | 370 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for CoreFreq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:42:47Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:48:59Z._
