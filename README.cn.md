@@ -26,13 +26,13 @@ x install CoreFreq
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.8 / 10**
+总评分: **3.6 / 10**
 
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -57,12 +57,12 @@ x install CoreFreq
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 1 | 0 | 1 | 0 | 1 | 9 |
-| 90d | 2026-08-17 | 1 | 0 | 1 | 0 | 1 | 9 |
-| last180d | 2026-05-19 | 5 | 0 | 1 | 3 | 1 | 77 |
-| 360d | 2025-11-20 | 6 | 2 | 1 | 13 | 2 | 194 |
-| last720d | 2024-11-25 | 15 | 4 | 1 | 38 | 2 | 361 |
+| 30d | 2026-10-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-17 | 1 | 0 | 1 | 0 | 1 | 9 |
+| 90d | 2026-08-18 | 1 | 0 | 1 | 0 | 1 | 9 |
+| last180d | 2026-05-20 | 5 | 0 | 1 | 2 | 1 | 77 |
+| 360d | 2025-11-21 | 6 | 2 | 1 | 13 | 2 | 194 |
+| last720d | 2024-11-26 | 15 | 4 | 1 | 38 | 2 | 361 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ CoreFreq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T07:15:18Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T07:30:40Z._
