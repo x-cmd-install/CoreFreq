@@ -14,11 +14,11 @@ x install CoreFreq
 
 ## Code insight
 
-Total: **234,481** lines of code across **104** files in the top 5 languages.
+Total: **234,488** lines of code across **104** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 145,104 | 4,015 | 16,465 | 32 |
+| C | 145,111 | 4,016 | 16,466 | 32 |
 | CHeader | 87,570 | 2,333 | 8,320 | 69 |
 | Svg | 1,328 | 1 | 1 | 1 |
 | Makefile | 422 | 3 | 44 | 1 |
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `2.1.5` (2026-10-17)
-- **Last commit**: 2026-10-22
+- **Latest**: `2.1.7` (2026-11-22)
+- **Last commit**: 2026-11-22
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 20 · **Open PRs**: 1 · **Closed issues**: 395 · **Open issues**: 2 · **Commits**: 2832
+- **Releases**: 37 · **Merged PRs**: 20 · **Open PRs**: 1 · **Closed issues**: 395 · **Open issues**: 2 · **Commits**: 2835
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-22 | 1 | 0 | 1 | 0 | 0 | 9 |
-| 90d | 2026-08-23 | 1 | 0 | 1 | 0 | 1 | 9 |
-| last180d | 2026-05-25 | 4 | 0 | 1 | 2 | 1 | 77 |
-| 360d | 2025-11-26 | 6 | 2 | 1 | 12 | 2 | 194 |
-| last720d | 2024-12-01 | 15 | 4 | 1 | 38 | 2 | 360 |
+| 30d | 2026-10-23 | 1 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-23 | 2 | 0 | 1 | 0 | 0 | 11 |
+| 90d | 2026-08-24 | 2 | 0 | 1 | 0 | 1 | 12 |
+| last180d | 2026-05-26 | 5 | 0 | 1 | 2 | 1 | 73 |
+| 360d | 2025-11-27 | 7 | 2 | 1 | 12 | 2 | 197 |
+| last720d | 2024-12-02 | 16 | 4 | 1 | 38 | 2 | 363 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for CoreFreq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:01:48Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:40:20Z._
