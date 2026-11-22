@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cyring/CoreFreq/releases/415941508",
-  "assets_url": "https://api.github.com/repos/cyring/CoreFreq/releases/415941508/assets",
-  "upload_url": "https://uploads.github.com/repos/cyring/CoreFreq/releases/415941508/assets{?name,label}",
-  "html_url": "https://github.com/cyring/CoreFreq/releases/tag/2.1.5",
-  "id": 415941508,
+  "url": "https://api.github.com/repos/cyring/CoreFreq/releases/454242433",
+  "assets_url": "https://api.github.com/repos/cyring/CoreFreq/releases/454242433/assets",
+  "upload_url": "https://uploads.github.com/repos/cyring/CoreFreq/releases/454242433/assets{?name,label}",
+  "html_url": "https://github.com/cyring/CoreFreq/releases/tag/2.1.7",
+  "id": 454242433,
   "author": {
     "login": "cyring",
     "id": 11563789,
@@ -25,33 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAkCp8s4YysOE",
-  "tag_name": "2.1.5",
+  "node_id": "RE_kwDOAkCp8s4bEzCB",
+  "tag_name": "2.1.7",
   "target_commitish": "master",
-  "name": "v2.1.5",
+  "name": "v2.1.7",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-17T12:53:21Z",
-  "updated_at": "2026-10-17T16:57:23Z",
-  "published_at": "2026-10-17T16:57:23Z",
+  "created_at": "2026-11-22T05:49:49Z",
+  "updated_at": "2026-11-22T06:09:35Z",
+  "published_at": "2026-11-22T06:09:35Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cyring/CoreFreq/tarball/2.1.5",
-  "zipball_url": "https://api.github.com/repos/cyring/CoreFreq/zipball/2.1.5",
-  "body": "## [AMD]\r\n* [Zen] Fix XFR ratio rounding calculation from HSMP registers\r\n* Adding the 400 Series (Gorgon Point)\r\n* Adding the `Ryzen 5 3501U` and `Ryzen 3 3100U` processors (Picasso)\r\n* Adding the `Ryzen 5 7525U` processor (Van Gogh / Laptop)\r\n* Adding the `AMD Ryzen 7 H 449` processor (Gorgon Point)",
-  "discussion_url": "https://github.com/cyring/CoreFreq/discussions/606",
-  "reactions": {
-    "url": "https://api.github.com/repos/cyring/CoreFreq/releases/415941508/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/cyring/CoreFreq/tarball/2.1.7",
+  "zipball_url": "https://api.github.com/repos/cyring/CoreFreq/zipball/2.1.7",
+  "body": "## [riscv64]\r\n* Fix build with Linux 7.3 uppercase ISA extension IDs\r\n\r\n## [UI]\r\n* Mask raw terminal input to known key bits\r\n* Do not process a key when stdin read fails or hangs up\r\n\r\n## [CR]\r\n* Fix some kernel collisions within FP registers (arm/riscv/powerpc)",
+  "discussion_url": "https://github.com/cyring/CoreFreq/discussions/607"
 }
