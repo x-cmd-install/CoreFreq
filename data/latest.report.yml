@@ -7,7 +7,7 @@ about:
   latestVersion: "2.1.7"
   latestRelease: "2.1.7"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:39:20Z
+  collectedAt: 2026-11-28T08:45:07Z
 timeline:
   created: 2015-06-21
   lastCommit: 2026-11-22
@@ -29,47 +29,47 @@ language:
 totalBytes: 7753142
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 3
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
     mergedPR: 0
-    openPR: 1
+    openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 11
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 2
     mergedPR: 0
     openPR: 1
     closedIssue: 0
     openIssue: 1
-    commit: 0
+    commit: 12
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 5
     mergedPR: 0
     openPR: 1
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 73
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 7
     mergedPR: 2
     openPR: 1
     closedIssue: 10
     openIssue: 2
-    commit: 0
+    commit: 197
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 16
     mergedPR: 4
     openPR: 1
@@ -85,7 +85,7 @@ total:
   commit: 2835
 ---
 path: /home/runner/.x-repo/github.com/cyring/CoreFreq
-collectedAt: 2026-11-27T09:39:28Z
+collectedAt: 2026-11-28T08:45:13Z
 loc:
   C:
     code: 145111
